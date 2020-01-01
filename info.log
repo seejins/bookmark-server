@@ -1,0 +1,12 @@
+{"message":"Bookmark with id 4 not found.","level":"error"}
+{"message":"Bookmark with id 3 not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 1 deleted","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id 58e0c74e-8721-4f0a-aa61-cfc4c1737b67 created","level":"info"}
+{"message":"Bookmark with id 338149fb-7bee-4474-8b92-43892efa96da created","level":"info"}
