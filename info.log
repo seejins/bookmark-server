@@ -96,3 +96,58 @@
 {"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"description is required","level":"error"}
+{"message":"description is required","level":"error"}
+{"message":"description is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"description is not defined","level":"error"}
+{"message":"select * from \"bookmarks\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"[object Object].id\"","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/911","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"description is not defined","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"description is not defined","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"description is not defined","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"description is not defined","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"description is not defined","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"bookkmark is not defined","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 1 created.","level":"info"}
